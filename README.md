@@ -3,8 +3,7 @@ Seizure Onset Code for Classification and Analysis
 
 Overview
 
-Hello this is an accumulation of work I produced which involved creating/editing a classifier to aid in soz research below is a brief understanding of the example, since the summarizer and graph are pretty self explanatory, I will explain 
-quickly. The summarizer essentially grabbed the CSV files that was created from the various classification testing and summarized into a csv which had differing sparsity results, the makegraph leveraged libraries to turn the results into graph plots. Below is more indepth work and specifics related to the seizure onset machine learning work.
+Hello this is an accumulation of work I produced which involved creating/editing a classifier to aid in soz classification below is a brief understanding of the example, since the summarizer and graph are pretty self explanatory, I will explain quickly. The summarizer essentially grabbed the CSV files that was created from the various classification testing and summarized into a csv which had differing sparsity results, the makegraph leveraged libraries to turn the results into graph plots. Below is more indepth work and specifics related to the seizure onset machine learning work.
 
 This project focuses on detecting the Seizure Onset Zone (SOZ), which is a critical region of the brain responsible for triggering seizures in individuals with epilepsy. Accurate identification of the SOZ is important for guiding surgical interventions and improving patient outcomes. We aim to classify whether a brain region belongs to the SOZ based on neurophysiological data using machine learning models.
 
